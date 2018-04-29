@@ -1,0 +1,26 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/T2theP/burger.git"
+  },
+  "author": "Tom Payne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/T2theP/burger/issues"
+  },
+  "homepage": "https://github.com/T2theP/burger#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "method-override": "file:node_modules/method-override",
+    "mysql": "^2.15.0"
+  }
+}
